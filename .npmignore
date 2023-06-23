@@ -1,0 +1,21 @@
+.github/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+src/
+
+**/tests/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# clear config
+.eslintrc
+.prettierrc
+tsconfig.json
+tslint.json
+
+# package
+*.tgz
